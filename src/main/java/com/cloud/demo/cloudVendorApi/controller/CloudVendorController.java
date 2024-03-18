@@ -64,4 +64,8 @@ public class CloudVendorController {
 
     }
 
+    public static void add() {
+
+    }
+
 }
